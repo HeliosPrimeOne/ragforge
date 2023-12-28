@@ -193,7 +193,7 @@ python run.py --show_sources
 ```
 
 
-You can use the `--save_qa` flag with `run.py` Whether to save Q&A pairs to a CSV file (Default is False). A folder called qa_history will be created to store QA as a csv file.  Not to be confused with chat history "ChatMemory".
+You can use the `--save_qa` flag with `run.py` to save Q&A pairs to a CSV file (Default is False). A folder called qa_history will be created to store QA as a csv file.  Not to be confused with chat history "ChatMemory".
 
 ```shell
 python run.py --save_qa
