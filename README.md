@@ -134,12 +134,12 @@ DB creation is complete!
 
 
 ***Note:*** 
-**LM-Studio Quick Setup!**
+- **LM-Studio Quick Setup!**
 When you run LM-Studio for the first time, it will need internet connection to download the LLM of your choosing.
-**Search Tab within LM-Studio**: `TheBloke/Mistral-7B-Instruct-v0.2-GGUF`.
-**Download**: `mistral-7b-instruct-v0.2.Q4_K_M.gguf` version.
+- **Search Tab within LM-Studio**: `TheBloke/Mistral-7B-Instruct-v0.2-GGUF`.
+- **Download**: `mistral-7b-instruct-v0.2.Q4_K_M.gguf` version.
 
-**This is a base model version for hardware demand.**
+- **This is a base model version for hardware demand.**
 
 Click on 'local server' tab on LM-Studio
 
