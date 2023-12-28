@@ -154,6 +154,9 @@ You will need to adjust according to your hardware.
 Visit the LM-Studio Discord for more info on these settings.
 
 **Choose Model from Drop-down Menu**
+**Choose server port or leave default 1234**
+**Confirm same port number on** `run.py`
+**Start the Server**
 
 
 After that you can turn off your internet connection, and the script inference would still work. No data gets out of your local environment.
