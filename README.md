@@ -2,6 +2,9 @@
 
 **RAGForge** - RAG `Retrieval-Augmented Generation` (document retrieval) is an open-source endeavor empowering you to engage with your documents while safeguarding your privacy. By operating entirely on your local machine, rest assured that no data ventures beyond your computer. Immerse yourself in the realm of secure, locally-driven document interactions with RAGForge.
 
+## Discord 🌟
+- **Come Chat with us on Discord!**: [Click here to join our Discord Server](http://discord.gg/zuudwZG2zg)
+
 ## Features 🌟
 - **Absolute Confidentiality**: Safeguard your data exclusively on your device, guaranteeing unparalleled security. Load LLM locally through LM-Studio (for simplicity) or alternative methods.
 - **Adaptable Model Compatibility**: Effortlessly incorporate a diverse array of open-source models through API integration.
