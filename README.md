@@ -146,17 +146,17 @@ Click on 'local server' tab on LM-Studio
 
 
 **There are settings in LM-Studio server tab that allow**:
-`Presets`: Use mistral or Zephyr to start - make custom later.
-`Context Length`: (keep it under 4k for Q4 models)
-`GPU loading with layers`: (GPU workload 1-80 --start LOW)
-`CPU loading only`: (max cores -1 OR --avg = 4 cores)
-You will need to adjust according to your hardware.
-Visit the LM-Studio Discord for more info on these settings.
+- `Presets`: Use mistral or Zephyr to start - make custom later.
+- `Context Length`: (keep it under 4k for Q4 models)
+- `GPU loading with layers`: (GPU workload 1-80 --start LOW)
+- `CPU loading only`: (max cores -1 OR --avg = 4 cores)
+- You will need to adjust according to your hardware.
+- Visit the LM-Studio Discord for more info on these settings.
 
-**Choose Model from Drop-down Menu**
-**Choose server port or leave default 1234**
-**Confirm same port number on** `run.py`
-**Start the Server**
+- **Choose Model from Drop-down Menu**
+- **Choose server port or leave default 1234**
+- **Confirm same port number on** `run.py`
+- **Start the Server**
 
 
 After that you can turn off your internet connection, and the script inference would still work. No data gets out of your local environment.
