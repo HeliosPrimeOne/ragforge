@@ -65,7 +65,8 @@ To set up your environment to run the code, navigate to Dir then install all req
 ```shell
 pip install -r requirements.txt
 ```
-
+**Some systems require torch to be installed manually from here**
+- [PyTorch Manual install](https://pytorch.org/get-started/locally/)
 
 ## Test dataset
 
