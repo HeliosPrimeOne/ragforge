@@ -55,6 +55,8 @@ git clone https://github.com/HeliosPrimeOne/ragforge.git
 
 ```shell
 conda create -n rag python=3.10.0
+```
+```shell
 conda activate rag
 ```
 
