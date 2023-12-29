@@ -23,7 +23,7 @@ accelerate==0.25.0
 bitsandbytes ; sys_platform != 'win32'
 bitsandbytes-windows ; sys_platform == 'win32'
 click==8.1.7
-flask
+flask==3.0.0
 requests==2.31.0
 torch
 torchvision
