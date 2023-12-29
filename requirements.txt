@@ -30,4 +30,4 @@ torchaudio
 
 openpyxl==3.1.2
 
-## Some requirements are installed for future features to come. like flask for example.
+
