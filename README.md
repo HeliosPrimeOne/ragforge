@@ -26,7 +26,6 @@ By choosing appropriate local models and harnessing the capabilities of LangChai
 - `run.py` uses a local LLM to understand questions and create answers. The context for the answers is extracted from the local vector store using a similarity search to locate the right piece of context from the docs.
 - You can replace this local LLM with any other LLM you wish to load via API.
 
-This project was inspired by the original [LocalGPT](https://github.com/PromtEngineer/localGPT.git).
 
 ## Built Using 🧩
 - [LangChain](https://github.com/hwchase17/langchain)
