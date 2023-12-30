@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ## Test dataset
 
-For testing, this repo comes preloaded with [The Art of War Sun Tzu](https://www.globalgreyebooks.com/art-of-war-ebook.html#downloads) inside `SOURCE_DOCUMENTS` as an example file to use.
+For testing, this repo comes preloaded with [The Art of War by Sun Tzu](https://www.globalgreyebooks.com/art-of-war-ebook.html#downloads) inside `SOURCE_DOCUMENTS` as an example file to use.
 
 ## Ingesting your OWN Data.
 Put your files in the `SOURCE_DOCUMENTS` folder. You can put multiple folders/files within the `SOURCE_DOCUMENTS` folder and the code will recursively read your files.
