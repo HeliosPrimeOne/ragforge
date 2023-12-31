@@ -124,7 +124,7 @@ python study.py --help
 ```
 
 This will create a new folder called `DB` and use it for the newly created vector store. You can study as many documents as you want, and all will be accumulated in the local embeddings database.
-If you want to start from an empty database, delete the `DB` and re-study your documents.
+If you want to start from an empty database, delete the `DB` folder and re-study your documents.
 
 **Note**: When you run this for the first time, it will need internet access to download the embedding model (default: `Instructor Embedding`). In the subsequent runs, no data will leave your local environment and you can study data with your local LLM without internet connection.
 
