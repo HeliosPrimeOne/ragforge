@@ -23,11 +23,13 @@ accelerate==0.25.0
 bitsandbytes ; sys_platform != 'win32'
 bitsandbytes-windows ; sys_platform == 'win32'
 click==8.1.7
+
 requests==2.31.0
+openpyxl==3.1.2
+
+streamlit
+streamlit-extras
+
 torch
 torchvision
 torchaudio
-
-openpyxl==3.1.2
-
-
