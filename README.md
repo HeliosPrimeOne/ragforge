@@ -128,6 +128,11 @@ If you want to start from an empty database, delete the `DB` folder and re-study
 
 **Note**: When you run this for the first time, it will need internet access to download the embedding model (default: `Instructor Embedding`). In the subsequent runs, no data will leave your local environment and you can study data with your local LLM without internet connection.
 
+- There’s a few to choose from in the constants.py file.
+- They use more memory to load so be aware of the hardware demands.
+- Just uncomment/comment the model you want to u use. It’ll download it locally.
+- Then you can disconnect from the internet again per usual if u want.
+
 When DB is created successfully you will see these 2 entries at the end of the study.py process:
 - **load INSTRUCTOR_Transformer**
 - **max_seq_length  512**
