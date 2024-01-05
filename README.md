@@ -13,7 +13,6 @@
 
 ## Coming Soon --
 - **Graphical Interface**: Gui connecting directly to API for RAG Solutions.
-- **API**: API that you can use for building RAG Applications. LLM within an LLM
 - **Chat History**: Remembers your previous conversations (in a session).
 - **Whisper feature**: Talk to your Ai's.
 - **Migration into PrimeAgents**: To be eventually added into the PrimeAgents Collection.
