@@ -130,8 +130,8 @@ If you want to start from an empty database, delete the `DB` folder and re-study
 
 - There’s a few to choose from in the constants.py file.
 - They use more memory to load so be aware of the hardware demands.
-- Just uncomment/comment the model you want to u use. It’ll download it locally.
-- Then you can disconnect from the internet again per usual if u want.
+- Just uncomment/comment the model you want to use. It’ll download it locally.
+- Then you can disconnect from the internet again per usual if you want.
 
 When DB is created successfully you will see these 2 entries at the end of the study.py process:
 - **load INSTRUCTOR_Transformer**
