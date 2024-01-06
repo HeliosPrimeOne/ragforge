@@ -247,7 +247,7 @@ Follow this [page](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-
 
 This is a test project to validate the MVP of a fully local solution for question answering using LLMs and Vector embeddings. 
 API_KEY is PURELY visible in the code for this example (for simplicity). Local LLM's use any info for api_key. Doesnt have to be real.
-Next version will be corrected.
+Use .env file for a production setting.
 Rec using env file for keys.
 Always updating, code can break at anytime. DYOR
 
