@@ -1,4 +1,4 @@
-# RAGForge: Crafting RAG-powered Solutions for Secure, Local Conversations with Your Documents 🌐 Product of PrimeLabs 🌞
+# RAGForge: Crafting RAG-powered Solutions for Secure, Local Conversations with Your Documents - V2 Web GUI 🌐 Product of PrimeLabs 🌞
 
 **RAGForge** - RAG `Retrieval-Augmented Generation` (document retrieval) is an open-source endeavor empowering you to engage with your documents while safeguarding your privacy. By operating entirely on your local machine, rest assured that no data ventures beyond your computer. Immerse yourself in the realm of secure, locally-driven document interactions with RAGForge.
 
