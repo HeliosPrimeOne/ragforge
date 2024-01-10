@@ -6,11 +6,11 @@ import openai
 import torch
 import utils
 from langchain.chains import RetrievalQA
-from langchain.embeddings import HuggingFaceInstructEmbeddings
-from langchain.llms import OpenAI
+from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+from langchain_openai import OpenAI
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.callbacks.manager import CallbackManager
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 from constants import (
     EMBEDDING_MODEL_NAME,
     PERSIST_DIRECTORY,
@@ -40,7 +40,7 @@ def retrieval_qa_pipeline(device_type, use_history):
 
     llm_config = OpenAI(
         api_key="YOUR_API_KEY_HERE",   # API key exposed for this example.  Use env file for real key.  Local LLM's take any input as key.
-        base_url="http://localhost:1234/v1",
+        base_url="http://localhost:5111/v1",
         timeout=600,
         temperature=0.3, # Adjust from 0.1 - 0.9  --Lower = more to the point, higher = more creative.
         max_tokens=-1,
