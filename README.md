@@ -2,6 +2,9 @@
 
 **RAGForge** - RAG `Retrieval-Augmented Generation` (document retrieval) is an open-source endeavor empowering you to engage with your documents while safeguarding your privacy. By operating entirely on your local machine, rest assured that no data ventures beyond your computer. Immerse yourself in the realm of secure, locally-driven document interactions with RAGForge.
 
+![Screenshot from 2024-01-10 02-56-04](https://github.com/HeliosPrimeOne/ragforge/assets/89754687/00953b0d-ca78-4949-aeab-a8e0516c48ff)
+
+
 ## Discord 🌞
 - **Come Chat with us on Discord!**: [Click here to join our Discord Server](http://discord.gg/zuudwZG2zg)
 
