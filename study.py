@@ -5,9 +5,9 @@ from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_compl
 import click
 import torch
 from langchain.docstore.document import Document
-from langchain.embeddings import HuggingFaceInstructEmbeddings
+from langchain_community.embeddings import HuggingFaceInstructEmbeddings
 from langchain.text_splitter import Language, RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 
 from constants import (
     CHROMA_SETTINGS,
