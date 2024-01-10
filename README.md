@@ -142,7 +142,7 @@ DOCUMENT_MAP = {
 
 - For entire folders-use the Drag-&-drop method.
 
-- When the embedding model is finished you will see a confirmation - App will refresh with new the Database.
+- When the embedding model is finished you will see a confirmation - App will refresh with the new Database.
 
 
 ### CLI Version:
