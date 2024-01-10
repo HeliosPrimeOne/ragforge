@@ -208,7 +208,7 @@ if prompt:
             st.write(doc[0].page_content)
             st.write("--------------------------------")
 # Set the maximum memory usage threshold (in percentage)
-max_memory_threshold = 45  # Adjust as needed
+max_memory_threshold = 65  # Adjust as needed
 while True:
     # Get the current system memory usage
     memory_usage = psutil.virtual_memory().percent
