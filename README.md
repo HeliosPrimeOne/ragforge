@@ -336,7 +336,7 @@ To use this software, you must have Python 3.10 or later installed. Earlier vers
 Follow this [page](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-22-04) to install NVIDIA Drivers for linux.
 
 ### Work-arounds for Web GUI:
-- Memory (RAM) has been capped at 65% to Prevent Server Unstableness. If you constantly run above 65% - change the Cap setting in the Ragforge.py Coding.
+- Memory (RAM) has been capped at 65% to Prevent Server Unstableness before app restarts. If you constantly run above 65% - change the Cap setting in the Ragforge.py Coding.
 - If Force Quit from GUI or Ctrl+c from terminal doesn't stop script - use task manager/system monitor to Kill script.
 - If Receving a local Port error from terminal `Port xxxx is already in use` - use task manager/system monitor to Kill script and restart GUI.
 
