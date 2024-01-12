@@ -23,6 +23,7 @@
 - **Migration into PrimeAgents**: To be eventually added into the PrimeAgents Collection.
 
 ## Quick Start
+- Rec. Linux Ubuntu 22.04
 - Create conda env
 - Locate directory
 - Install Requirements
