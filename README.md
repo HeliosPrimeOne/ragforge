@@ -44,7 +44,7 @@
 
 
 ## Technical Details 🛠️
-- Designed and Deployed with Linux
+- Designed, Tested and Deployed with Linux 22.04
 - By choosing appropriate local models and harnessing the capabilities of LangChain, you can execute the complete RAG pipeline on your local setup. No data departs from your environment, ensuring utmost privacy, all while maintaining reasonable performance.
 
 - `study.py` uses `LangChain` tools to parse the document and create embeddings locally using `InstructorEmbeddings`. It then stores the result in a local vector database using `Chroma` vector store.
