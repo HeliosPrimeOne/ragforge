@@ -331,7 +331,7 @@ Below is the VRAM requirement for different models depending on their size (Bill
 
 ## Python Version
 
-To use this software, you must have Python 3.11 or later installed. Earlier versions of Python will not compile.
+To use this software, you must have Python 3.11 or later installed. Earlier versions of Python may not compile.
 
 ### NVIDIA Driver's Issues:
 
