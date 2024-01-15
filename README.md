@@ -5,7 +5,9 @@
 ![Screenshot from 2024-01-10 02-56-04](https://github.com/HeliosPrimeOne/ragforge/assets/89754687/00953b0d-ca78-4949-aeab-a8e0516c48ff)
 ![Screenshot from 2024-01-10 22-13-38](https://github.com/HeliosPrimeOne/ragforge/assets/89754687/b7d20cfd-4f25-4b88-80b0-f23a8723050b)
 
-
+## LINUX 22.04 KNOWN WORKING 100%
+- Issues with loading GUI from windows HOST system (accessing webui from windows not a problem).  Advise to use Linux Ubuntu 22.04 to use AND host WEB GUI interface only (Cli is fine) until I can submit a solution for Win users that want to host webui.
+  
 ## Discord 🌞
 - **Come Chat with us on Discord!**: [Click here to join our Discord Server](http://discord.gg/zuudwZG2zg)
 
