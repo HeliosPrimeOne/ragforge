@@ -8,8 +8,8 @@
 ## LINUX 22.04 KNOWN WORKING 100%
 - Issues with loading GUI from windows HOST system (accessing webui from windows not a problem).  Advise to use Linux Ubuntu 22.04 to use AND host WEB GUI interface only (Cli is fine) until I can submit a solution for Win users that want to host webui.
   
-## Discord 🌞
-- **Come Chat with us on Discord!**: [Click here to join our Discord Server](http://discord.gg/zuudwZG2zg)
+## HuggingFace 🌞
+- **Trained models**: [Click here to view my Ai Models](https://huggingface.co/Primeness)
 
 ## Features 🌞
 - **Graphical Interface**: WEB GUI connecting directly to Model API for RAG Solutions.
@@ -224,7 +224,7 @@ When you run LM-Studio for the first time, it will need internet connection to d
 
 - **This is a base model version for Basic hardware demand.**
 
-Click on 'local server' tab on LM-Studio
+Click on 'local / server' tab on LM-Studio
 
 
 
