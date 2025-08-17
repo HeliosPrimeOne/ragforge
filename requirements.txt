@@ -1,29 +1,30 @@
-langchain==0.1.0
+langchain
+langchain-community
 langchain_openai
-tiktoken==0.5.2
-chromadb==0.4.6
-pdfminer.six==20221105
-InstructorEmbedding==1.0.1
-sentence-transformers==2.2.2
-faiss-cpu==1.7.4
-huggingface_hub==0.20.1
-transformers==4.36.2
+tiktoken
+chromadb
+pdfminer.six
+InstructorEmbedding
+sentence-transformers
+faiss-cpu
+huggingface_hub
+transformers
 protobuf!==3.20.2
-auto-gptq==0.2.2
+auto-gptq
 docx2txt
 unstructured
 unstructured[pdf]
 
 
-openai==1.6.1
-urllib3==1.26.6
-accelerate==0.25.0
+openai
+urllib3
+accelerate
 bitsandbytes ; sys_platform != 'win32'
 bitsandbytes-windows ; sys_platform == 'win32'
-click==8.1.7
+click
 
-requests==2.31.0
-openpyxl==3.1.2
+requests
+openpyxl
 
 streamlit-extras==0.3.6
 streamlit
