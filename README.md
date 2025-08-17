@@ -109,7 +109,7 @@ pip install -r requirements.txt
 
 ## Test dataset
 
-For testing, this repo comes preloaded with [The Art of War by Sun Tzu](https://www.globalgreyebooks.com/art-of-war-ebook.html#downloads) inside `SOURCE_DOCUMENTS` as an example file to use.
+For testing, this repo comes preloaded with [BMW Oil issue and diagnostic pdf] inside `SOURCE_DOCUMENTS` as an example file to use.
 
 ## Ingesting your OWN Data
 
