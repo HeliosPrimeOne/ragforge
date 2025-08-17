@@ -15,7 +15,7 @@ from langchain.chains import RetrievalQA
 from streamlit_extras import add_vertical_space as avs
 import warnings
 from langchain_core._api.deprecation import LangChainDeprecationWarning
-warnings.filterwarnings("ignore", category=LangChainDeprecationWarning) ##Using Latest Langchain Version 0.1.0 which causes error msg. Will update if code breaks.
+warnings.filterwarnings("ignore", category=LangChainDeprecationWarning) ##Using Latest Langchain Version 0.1.0 which causes error msg. 
 
 def load_remote_model(api_key, base_url):
     openai.api_key = api_key
