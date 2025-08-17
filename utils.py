@@ -6,6 +6,7 @@ def log_to_csv(question, answer):
 
     log_dir, log_file = "qa_history", "qa_log.csv"
     # Ensure log directory exists, create if not
+    # logs are also saved within llm api server
     if not os.path.exists(log_dir):
         os.makedirs(log_dir)
 
