@@ -42,7 +42,7 @@ def retrieval_qa_pipeline(device_type, use_history):
         api_key="YOUR_API_KEY_HERE",   # API key exposed for this example.  Use env file for real key.  Local LLM's take any input as key.
         base_url="http://localhost:1234/v1",
         timeout=600,
-        temperature=0.3, # Adjust from 0.1 - 0.9  --Lower = more to the point, higher = more creative.
+        temperature=0.3, # Adjust from 0.1 - 0.9  --Lower = more to the point, higher = more creative. Verify which take precedence (script or llm api)
         max_tokens=-1,
     )
 
