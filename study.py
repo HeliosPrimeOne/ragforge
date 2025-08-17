@@ -57,7 +57,7 @@ def load_document_batch(filepaths):
 
 
 def load_documents(source_dir: str) -> list[Document]:
-    # Loads all documents from the source documents directory, including nested folders
+    # Loads all documents from the source documents directory, including nested folders- verify all files within folders are loaded in db
     paths = []
     for root, _, files in os.walk(source_dir):
         for file_name in files:
